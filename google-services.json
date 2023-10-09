@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "252412809985",
+    "firebase_url": "https://solid-citadel-334919-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "solid-citadel-334919",
+    "storage_bucket": "solid-citadel-334919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252412809985:android:42e859c2647fe8067e4100",
+        "android_client_info": {
+          "package_name": "com.example.thesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252412809985-n4q0te6350m0m1q152piqnlejd6168hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTm9TZDODwugLTxfDxD9s4OVcVKMYcqMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252412809985-n4q0te6350m0m1q152piqnlejd6168hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
